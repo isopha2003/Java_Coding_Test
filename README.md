@@ -9,7 +9,7 @@
 ## 풀이 현황
 | 플랫폼 | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 | 합계 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Programmers | 7개 | 5개 | 1개 | 0개 | 0개 | 13개 |
+| Programmers | 8개 | 5개 | 1개 | 0개 | 0개 | 14개 |
 
 | 플랫폼 | Bronze | Silver | Gold | 합계 |
 | :---: | :---: | :---: | :---: | :---: |
@@ -31,3 +31,4 @@
 | 2026-03-02 | Programmers | 동영상 재생기 | Level 1 |
 | 2026-03-03 | Programmers | 지폐 접기 | Level 1 |
 | 2026-03-04 | Programmers | 추억 점수 | Level 1 |
+| 2026-03-05 | Programmers | 카드 뭉치 | Level 1 |
