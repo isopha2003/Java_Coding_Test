@@ -1,6 +1,11 @@
 # Java Coding Test Practice
 > 프로그래머스 및 백준 알고리즘 문제 풀이 기록 저장소입니다.
 
+## 프로그래머스 문제 풀이 링크
+- [Velog_Level 1](https://velog.io/@hi_soap/프로그래머스-코테-연습-1단계)
+- [Velog Level 2](https://velog.io/@hi_soap/프로그래머스-코테-연습-2단계)
+- [Velog Level 3](https://velog.io/@hi_soap/프로그래머스-코테-연습-3단계)
+
 ## 풀이 현황
 | 플랫폼 | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 | 합계 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
