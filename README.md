@@ -4,7 +4,7 @@
 ## 풀이 현황
 | 플랫폼 | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 | 합계 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Programmers | 8개 | 5개 | 1개 | 0개 | 0개 | 14개 |
+| Programmers | 8개 | 6개 | 1개 | 0개 | 0개 | 15개 |
 
 | 플랫폼 | Bronze | Silver | Gold | 합계 |
 | :---: | :---: | :---: | :---: | :---: |
@@ -27,3 +27,4 @@
 | 2026-03-03 | Programmers | 지폐 접기 | Level 1 | [지폐 접기](https://velog.io/@hi_soap/지폐-접기) |
 | 2026-03-04 | Programmers | 추억 점수 | Level 1 | [추억 점수](https://velog.io/@hi_soap/추억-점수) |
 | 2026-03-05 | Programmers | 카드 뭉치 | Level 1 | [카드 뭉치](https://velog.io/@hi_soap/카드-뭉치) |
+| 2026-03-06 | Programmers | 최댓값과 최솟값 | Level 2 | [최댓값과 최솟값](https://velog.io/@hi_soap/최댓값과-최솟값) |
