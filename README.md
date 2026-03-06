@@ -4,7 +4,7 @@
 ## 풀이 현황
 | 플랫폼 | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 | 합계 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Programmers | 8개 | 6개 | 1개 | 0개 | 0개 | 15개 |
+| Programmers | 8개 | 7개 | 1개 | 0개 | 0개 | 16개 |
 
 | 플랫폼 | Bronze | Silver | Gold | 합계 |
 | :---: | :---: | :---: | :---: | :---: |
@@ -28,3 +28,4 @@
 | 2026-03-04 | Programmers | 추억 점수 | Level 1 | [추억 점수](https://velog.io/@hi_soap/추억-점수) |
 | 2026-03-05 | Programmers | 카드 뭉치 | Level 1 | [카드 뭉치](https://velog.io/@hi_soap/카드-뭉치) |
 | 2026-03-06 | Programmers | 최댓값과 최솟값 | Level 2 | [최댓값과 최솟값](https://velog.io/@hi_soap/최댓값과-최솟값) |
+| 2026-03-06 | Programmers | JadenCase 문자열 만들기 | Level 2 | [JadenCase 문자열 만들기](https://velog.io/@hi_soap/JadenCase-문자열-만들기) |
