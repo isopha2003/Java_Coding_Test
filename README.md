@@ -4,7 +4,7 @@
 ## 풀이 현황
 | 플랫폼 | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 | 합계 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Programmers | 8개 | 9개 | 1개 | 0개 | 0개 | 18개 |
+| Programmers | 9개 | 9개 | 1개 | 0개 | 0개 | 19개 |
 
 | 플랫폼 | Bronze | Silver | Gold | 합계 |
 | :---: | :---: | :---: | :---: | :---: |
@@ -31,3 +31,4 @@
 | 2026-03-06 | Programmers | JadenCase 문자열 만들기 | Level 2 | [JadenCase 문자열 만들기](https://velog.io/@hi_soap/JadenCase-문자열-만들기) |
 | 2026-03-06 | Programmers | 올바른 괄호 | Level 2 | [올바른 괄호](https://velog.io/@hi_soap/올바른-괄호) |
 | 2026-03-07 | Programmers | 최솟값 만들기 | Level 2 | [최솟값 만들기](https://velog.io/@hi_soap/최솟값-만들기) |
+| 2026-03-07 | Programmers | 가장 많이 받은 선물 | Level 1 | [가장 많이 받은 선물](https://velog.io/@hi_soap/가장-많이-받은-선물) |
