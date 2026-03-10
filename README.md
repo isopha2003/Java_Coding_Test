@@ -32,6 +32,6 @@
 | 2026-03-06 | Programmers | 올바른 괄호 | Level 2 | [올바른 괄호](https://velog.io/@hi_soap/올바른-괄호) |  |
 | 2026-03-07 | Programmers | 최솟값 만들기 | Level 2 | [최솟값 만들기](https://velog.io/@hi_soap/최솟값-만들기) |  |
 | 2026-03-07 | Programmers | 가장 많이 받은 선물 | Level 1 | [가장 많이 받은 선물](https://velog.io/@hi_soap/가장-많이-받은-선물) |  |
-| 2026-03-08 | Programmers | 신고 결과 받기 | Level 1 | [신고 결과 받기(https://velog.io/@hi_soap/신고-결과-받기)] |  |
+| 2026-03-08 | Programmers | 신고 결과 받기 | Level 1 | [신고 결과 받기](https://velog.io/@hi_soap/신고-결과-받기) |  |
 | 2026-03-09 | Programmers | 붕대 감기 | Level 1 | [붕대 감기](https://velog.io/@hi_soap/붕대-감기) |  |
-| 2026-03-10 | Programmers | 공원 | Level 1 | [공원](https://velog.io/@hi_soap/공원) |  |
+| 2026-03-10 | Programmers | 공원 | Level 1 | [공원](https://velog.io/@hi_soap/공원) | 해결 실패 |
