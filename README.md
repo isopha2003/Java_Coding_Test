@@ -4,7 +4,7 @@
 ## 풀이 현황
 | 플랫폼 | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 | 합계 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Programmers | 12개 | 9개 | 1개 | 0개 | 0개 | 22개 |
+| Programmers | 13개 | 9개 | 1개 | 0개 | 0개 | 23개 |
 
 | 플랫폼 | Bronze | Silver | Gold | 합계 |
 | :---: | :---: | :---: | :---: | :---: |
@@ -35,3 +35,4 @@
 | 2026-03-08 | Programmers | 신고 결과 받기 | Level 1 | [신고 결과 받기](https://velog.io/@hi_soap/신고-결과-받기) |  |
 | 2026-03-09 | Programmers | 붕대 감기 | Level 1 | [붕대 감기](https://velog.io/@hi_soap/붕대-감기) |  |
 | 2026-03-10 | Programmers | 공원 | Level 1 | [공원](https://velog.io/@hi_soap/공원) | 해결 실패 |
+| 2026-03-11 | Programmers | 공원 산책 | Level 1 | [공원 산책](https://velog.io/@hi_soap/공원-산책) |  |
