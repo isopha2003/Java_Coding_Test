@@ -4,7 +4,7 @@
 ## 풀이 현황
 | 플랫폼 | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 | 합계 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Programmers | 15개 | 9개 | 1개 | 0개 | 0개 | 25개 |
+| Programmers | 15개 | 10개 | 1개 | 0개 | 0개 | 26개 |
 
 | 플랫폼 | Bronze | Silver | Gold | 합계 |
 | :---: | :---: | :---: | :---: | :---: |
@@ -38,3 +38,4 @@
 | 2026-03-11 | Programmers | 공원 산책 | Level 1 | [공원 산책](https://velog.io/@hi_soap/공원-산책) |  |
 | 2026-03-12 | Programmers | 달리기 경주 | Level 1 | [달리기 경주](https://velog.io/@hi_soap/달리기-경주) |  |
 | 2026-03-16 | Programmers | 개인정보 수집 유효기간 | Level 1 | [개인정보 수집 유효기간](https://velog.io/@hi_soap/개인정보-수집-유효기간) | |
+| 2026-03-17 | Programmers | 이진 변환 반복하기 | Level 2 | [이진 변환 반복하기](https://velog.io/@hi_soap/이진-변환-반복하기)| |
