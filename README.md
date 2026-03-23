@@ -4,7 +4,7 @@
 ## 풀이 현황
 | 플랫폼 | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 | 합계 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Programmers | 15개 | 12개 | 1개 | 0개 | 0개 | 28개 |
+| Programmers | 15개 | 13개 | 1개 | 0개 | 0개 | 29개 |
 
 | 플랫폼 | Bronze | Silver | Gold | 합계 |
 | :---: | :---: | :---: | :---: | :---: |
@@ -41,3 +41,4 @@
 | 2026-03-17 | Programmers | 이진 변환 반복하기 | Level 2 | [이진 변환 반복하기](https://velog.io/@hi_soap/이진-변환-반복하기)|  |
 | 2026-03-18 | Programmers | 숫자의 표현 | Level 2 | [숫자의 표현](https://velog.io/@hi_soap/숫자의-표현)|  |
 | 2026-03-19 | Programmers | 다음 큰 숫자 | Level 2 | [다음 큰 숫자](https://velog.io/@hi_soap/다음-큰-숫자) |  |
+| 2026-03-23 | Programmers | 짝지어 제거하기 | Level 2 | [짝지어 제거하기](https://velog.io/@hi_soap/짝지어-제거하기) | 시간 초과 오류 |
