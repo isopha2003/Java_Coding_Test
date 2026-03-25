@@ -4,7 +4,7 @@
 ## 풀이 현황
 | 플랫폼 | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 | 합계 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Programmers | 15개 | 13개 | 1개 | 0개 | 0개 | 29개 |
+| Programmers | 15개 | 14개 | 1개 | 0개 | 0개 | 30개 |
 
 | 플랫폼 | Bronze | Silver | Gold | 합계 |
 | :---: | :---: | :---: | :---: | :---: |
@@ -42,3 +42,4 @@
 | 2026-03-18 | Programmers | 숫자의 표현 | Level 2 | [숫자의 표현](https://velog.io/@hi_soap/숫자의-표현)|  |
 | 2026-03-19 | Programmers | 다음 큰 숫자 | Level 2 | [다음 큰 숫자](https://velog.io/@hi_soap/다음-큰-숫자) |  |
 | 2026-03-23 | Programmers | 짝지어 제거하기 | Level 2 | [짝지어 제거하기](https://velog.io/@hi_soap/짝지어-제거하기) | 시간 초과 오류 |
+| 2026-03-25 | Programmers | 피보나치 수 | Level 2 | [피보나치 수](https://velog.io/@hi_soap/피보나치-수) | 시간 초과 오류 |
