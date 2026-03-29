@@ -45,4 +45,8 @@
 | 2026-03-25 | Programmers | 피보나치 수 | Level 2 | [피보나치 수](https://velog.io/@hi_soap/피보나치-수) | 시간 초과 오류 |
 | 2026-03-26 | Programmers | 카펫 | Level 2 | [카펫](https://velog.io/@hi_soap/카펫) |  |
 | 2026-03-27 | Programmers | 점프와 순간 이동 | Level 2 | [점프와 순간 이동](https://velog.io/@hi_soap/점프와-순간-이동) |  |
+<<<<<<< HEAD
 | 2026-03-28 | Programmers | 구명보트 | Level 2 | [구명보트](https://velog.io/@hi_soap/구명보트) | 해결 실패 및 시간 초과 오류 |
+=======
+| 2026-03-28 | Programmers | 구명보트 | Level 2 | [구명보트](https://velog.io/@hi_soap/구명보트) |  |
+>>>>>>> 1d81a361e822b721653f885982d81bc017d88db4
