@@ -4,7 +4,7 @@
 ## 풀이 현황
 | 플랫폼 | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 | 합계 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Programmers | 15개 | 17개 | 1개 | 0개 | 0개 | 33개 |
+| Programmers | 15개 | 18개 | 1개 | 0개 | 0개 | 34개 |
 
 | 플랫폼 | Bronze | Silver | Gold | 합계 |
 | :---: | :---: | :---: | :---: | :---: |
@@ -47,3 +47,4 @@
 | 2026-03-27 | Programmers | 점프와 순간 이동 | Level 2 | [점프와 순간 이동](https://velog.io/@hi_soap/점프와-순간-이동) |  |
 | 2026-03-28 | Programmers | 구명보트 | Level 2 | [구명보트](https://velog.io/@hi_soap/구명보트) | 해결 실패 및 시간 초과 오류 |
 | 2026-03-29 | Programmers | 귤 고르기 | Level 2 | [귤 고르기](https://velog.io/@hi_soap/귤-고르기) |  |
+| 2026-03-30 | Programmers | 멀리 뛰기 | Level 2 | [멀리 뛰기](https://velog.io/@hi_soap/멀리-뛰기) |  |
