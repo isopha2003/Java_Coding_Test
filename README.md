@@ -48,3 +48,4 @@
 | 2026-03-28 | Programmers | 구명보트 | Level 2 | [구명보트](https://velog.io/@hi_soap/구명보트) | 해결 실패 및 시간 초과 오류 |
 | 2026-03-29 | Programmers | 귤 고르기 | Level 2 | [귤 고르기](https://velog.io/@hi_soap/귤-고르기) |  |
 | 2026-03-30 | Programmers | 멀리 뛰기 | Level 2 | [멀리 뛰기](https://velog.io/@hi_soap/멀리-뛰기) |  |
+| 2026-03-31 | Programmers | N개의 최소공배수 | Level 2 | [N개의 최소공배수](https://velog.io/@hi_soap/N개의-최소공배수)|  |
