@@ -4,7 +4,7 @@
 ## 풀이 현황
 | 플랫폼 | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 | 합계 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Programmers | 15개 | 23개 | 1개 | 0개 | 0개 | 39개 |
+| Programmers | 15개 | 24개 | 1개 | 0개 | 0개 | 40개 |
 
 | 플랫폼 | Bronze | Silver | Gold | 합계 |
 | :---: | :---: | :---: | :---: | :---: |
@@ -52,3 +52,4 @@
 | 2026-04-01 | Programmers | 연속 부분 수열 합의 개수 | Level 2 | [연속 부분 수열 합의 개수](https://velog.io/@hi_soap/연속-부분-수열-합의-개수) | 해결 실패 |
 | 2026-04-02 | Programmers | 할인 행사 | Level 2 | [할인 행사](https://velog.io/@hi_soap/할인-행사) |  |
 | 2026-04-03 | Programmers | 괄호 회전하기 | Level 2 | [괄호 회전하기](https://velog.io/@hi_soap/괄호-회전하기) |  |
+| 2026-04-04 | Programmers | n^2 배열 자르기 | Level 2 | [n^2 배열 자르기](https://velog.io/@hi_soap/n2-배열-자르기) |  |
