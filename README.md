@@ -54,4 +54,4 @@
 | 2026-04-03 | Programmers | 괄호 회전하기 | Level 2 | [괄호 회전하기](https://velog.io/@hi_soap/괄호-회전하기) |  |
 | 2026-04-04 | Programmers | n^2 배열 자르기 | Level 2 | [n^2 배열 자르기](https://velog.io/@hi_soap/n2-배열-자르기) | 메모리, 런타임 오류 |
 | 2026-04-06 | Programmers | 의상 | Level 2 | [의상](https://velog.io/@hi_soap/의상) |  |
-| 2026-04-07 | Programmers | H-Index | Level 2 | [H-Index](https://velog.io/@hi_soap/H-Index) |  | 
+| 2026-04-07 | Programmers | H-Index | Level 2 | [H-Index](https://velog.io/@hi_soap/H-Index) | AI 부분 활용 | 
