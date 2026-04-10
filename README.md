@@ -4,7 +4,7 @@
 ## 풀이 현황
 | 플랫폼 | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 | 합계 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Programmers | 15개 | 28개 | 1개 | 0개 | 0개 | 44개 |
+| Programmers | 15개 | 29개 | 1개 | 0개 | 0개 | 45개 |
 
 | 플랫폼 | Bronze | Silver | Gold | 합계 |
 | :---: | :---: | :---: | :---: | :---: |
@@ -57,3 +57,4 @@
 | 2026-04-07 | Programmers | H-Index | Level 2 | [H-Index](https://velog.io/@hi_soap/H-Index) | AI 부분 활용 |
 | 2026-04-09 | Programmers | 피로도 | Level 2 | [피로도](https://velog.io/@hi_soap/피로도) | 해결 실패, DFS 개념 정리, ★ |
 | 2026-04-10 | Programmers | 행렬의 곱셈 | Level 2 | [행렬의 곱셈](https://velog.io/@hi_soap/행렬의-곱셈) |  |
+| 2026-04-10 | Programmers | 기능개발 | Level 2 | [기능개발](https://velog.io/@hi_soap/기능개발) |  | 
