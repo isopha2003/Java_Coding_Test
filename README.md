@@ -4,7 +4,7 @@
 ## 풀이 현황
 | 플랫폼 | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 | 합계 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Programmers | 15개 | 33개 | 1개 | 0개 | 0개 | 49개 |
+| Programmers | 15개 | 34개 | 1개 | 0개 | 0개 | 50개 |
 
 | 플랫폼 | Bronze | Silver | Gold | 합계 |
 | :---: | :---: | :---: | :---: | :---: |
@@ -55,10 +55,11 @@
 | 2026-04-04 | Programmers | n^2 배열 자르기 | Level 2 | [n^2 배열 자르기](https://velog.io/@hi_soap/n2-배열-자르기) | 메모리, 런타임 오류 |
 | 2026-04-06 | Programmers | 의상 | Level 2 | [의상](https://velog.io/@hi_soap/의상) |  |
 | 2026-04-07 | Programmers | H-Index | Level 2 | [H-Index](https://velog.io/@hi_soap/H-Index) | AI 부분 활용 |
-| 2026-04-09 | Programmers | 피로도 | Level 2 | [피로도](https://velog.io/@hi_soap/피로도) | 해결 실패, DFS 개념 정리, ★ |
+| 2026-04-09 | Programmers | 피로도 | Level 2 | [피로도](https://velog.io/@hi_soap/피로도) | 해결 실패, DFS(★) |
 | 2026-04-10 | Programmers | 행렬의 곱셈 | Level 2 | [행렬의 곱셈](https://velog.io/@hi_soap/행렬의-곱셈) |  |
 | 2026-04-10 | Programmers | 기능개발 | Level 2 | [기능개발](https://velog.io/@hi_soap/기능개발) |  | 
 | 2026-04-11 | Programmers | 캐시 | Level 2 | [캐시](https://velog.io/@hi_soap/캐시) | LinkedHashMap |
 | 2026-04-12 | Programmers | 전화번호 목록 | Level 2 | [전화번호 목록](https://velog.io/@hi_soap/전화번호-목록) | 시간 초과 오류, startsWith() |
-| 2026-04-13 | Programmers | 프로세스 | Level 2 | [프로세스](https://velog.io/@hi_soap/프로세스) | Deque, LinkedHashMap, anyMatch() |
-| 2026-04-14 | Programmers | 롤케이크 자르기 | Level 2 | [롤케이크 자르기](https://velog.io/@hi_soap/롤케이크-자르기) | HashMap, Deque |
+| 2026-04-13 | Programmers | 프로세스 | Level 2 | [프로세스](https://velog.io/@hi_soap/프로세스) | Deque-LinkedHashMap, anyMatch() |
+| 2026-04-14 | Programmers | 롤케이크 자르기 | Level 2 | [롤케이크 자르기](https://velog.io/@hi_soap/롤케이크-자르기) | Deque-HashMap |
+| 2026-04-15 | Programmers | 게임 맵 최단 거리 | Level 2 | [게임 맵 최단 거리](https://velog.io/@hi_soap/게임-맵-최단-거리) | Queue-LinkedList, BFS(★) |
