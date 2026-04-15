@@ -61,5 +61,5 @@
 | 2026-04-11 | Programmers | 캐시 | Level 2 | [캐시](https://velog.io/@hi_soap/캐시) | LinkedHashMap |
 | 2026-04-12 | Programmers | 전화번호 목록 | Level 2 | [전화번호 목록](https://velog.io/@hi_soap/전화번호-목록) | 시간 초과 오류, startsWith() |
 | 2026-04-13 | Programmers | 프로세스 | Level 2 | [프로세스](https://velog.io/@hi_soap/프로세스) | Deque-LinkedHashMap, anyMatch() |
-| 2026-04-14 | Programmers | 롤케이크 자르기 | Level 2 | [롤케이크 자르기](https://velog.io/@hi_soap/롤케이크-자르기) | Deque-HashMap |
+| 2026-04-14 | Programmers | 롤케이크 자르기 | Level 2 | [롤케이크 자르기](https://velog.io/@hi_soap/롤케이크-자르기) | Deque, HashMap |
 | 2026-04-15 | Programmers | 게임 맵 최단 거리 | Level 2 | [게임 맵 최단 거리](https://velog.io/@hi_soap/게임-맵-최단-거리) | Queue-LinkedList, BFS(★) |
