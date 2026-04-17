@@ -4,7 +4,7 @@
 ## 풀이 현황
 | 플랫폼 | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 | 합계 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Programmers | 15개 | 35개 | 1개 | 0개 | 0개 | 51개 |
+| Programmers | 15개 | 36개 | 1개 | 0개 | 0개 | 52개 |
 
 | 플랫폼 | Bronze | Silver | Gold | 합계 |
 | :---: | :---: | :---: | :---: | :---: |
@@ -64,3 +64,4 @@
 | 2026-04-14 | Programmers | 롤케이크 자르기 | Level 2 | [롤케이크 자르기](https://velog.io/@hi_soap/롤케이크-자르기) | Deque, HashMap |
 | 2026-04-15 | Programmers | 게임 맵 최단 거리 | Level 2 | [게임 맵 최단 거리](https://velog.io/@hi_soap/게임-맵-최단-거리) | Queue-LinkedList, BFS(★) |
 | 2026-04-16 | Programmers | 타겟 넘버 | Level 2 | [타켓 넘버](https://velog.io/@hi_soap/타켓-넘버) | DFS(1차원 배열의 경우) |
+| 2026-04-17 | Programmers | 튜플 | Level 2 | [튜플](https://velog.io/@hi_soap/튜플-x2re2u7z) | StringBuilder, List, HashSet(중복 제거) |
