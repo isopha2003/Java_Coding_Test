@@ -4,7 +4,7 @@
 ## 풀이 현황
 | 플랫폼 | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 | 합계 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Programmers | 15개 | 38개 | 1개 | 0개 | 0개 | 54개 |
+| Programmers | 15개 | 39개 | 1개 | 0개 | 0개 | 55개 |
 
 | 플랫폼 | Bronze | Silver | Gold | 합계 |
 | :---: | :---: | :---: | :---: | :---: |
@@ -67,3 +67,4 @@
 | 2026-04-17 | Programmers | 튜플 | Level 2 | [튜플](https://velog.io/@hi_soap/튜플-x2re2u7z) | StringBuilder, List, HashSet(중복 제거) |
 | 2026-04-18 | Programmers | 뉴스 클러스터링 | Level 2 | [뉴스 클러스터링](https://velog.io/@hi_soap/뉴스-클러스터링) | List, isLetter(), contains() |
 | 2026-04-19 | Programmers | 방문 길이 | Level 2 | [방문 길이](https://velog.io/@hi_soap/방문-길이) | HashSet |
+| 2026-04-20 | Programmers | 모음 사전 | Level 2 | [모음사전](https://velog.io/@hi_soap/모음사전) | dfs |
