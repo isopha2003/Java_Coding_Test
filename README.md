@@ -4,7 +4,7 @@
 ## 풀이 현황
 | 플랫폼 | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 | 합계 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Programmers | 15개 | 39개 | 1개 | 0개 | 0개 | 55개 |
+| Programmers | 15개 | 40개 | 1개 | 0개 | 0개 | 56개 |
 
 | 플랫폼 | Bronze | Silver | Gold | 합계 |
 | :---: | :---: | :---: | :---: | :---: |
@@ -68,3 +68,4 @@
 | 2026-04-18 | Programmers | 뉴스 클러스터링 | Level 2 | [뉴스 클러스터링](https://velog.io/@hi_soap/뉴스-클러스터링) | List, isLetter(), contains() |
 | 2026-04-19 | Programmers | 방문 길이 | Level 2 | [방문 길이](https://velog.io/@hi_soap/방문-길이) | HashSet |
 | 2026-04-20 | Programmers | 모음 사전 | Level 2 | [모음사전](https://velog.io/@hi_soap/모음사전) | dfs |
+| 2026-04-21 | Programmers | 뒤에 있는 큰 수 찾기 | Level 2 | [뒤에 있는 큰 수 찾기](https://velog.io/@hi_soap/뒤에-있는-큰-수) | 시간 초과 오류, stack |
