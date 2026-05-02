@@ -4,7 +4,7 @@
 ## 풀이 현황
 | 플랫폼 | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 | 합계 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Programmers | 15개 | 43개 | 1개 | 0개 | 0개 | 59개 |
+| Programmers | 15개 | 44개 | 1개 | 0개 | 0개 | 60개 |
 
 | 플랫폼 | Bronze | Silver | Gold | 합계 |
 | :---: | :---: | :---: | :---: | :---: |
@@ -72,3 +72,4 @@
 | 2026-04-28 | Programmers | 더 맵게 | Level 2 | [더 맵게](https://velog.io/@hi_soap/더-맵게) | 시간 초과 오류, PriorityQueue, 인터페이스 구조체 구조 정리(★) |
 | 2026-04-29 | Programmers | k진수에서 소수 개수 구하기 | Level 2 | [k진수에서 소수 개수 구하기](https://velog.io/@hi_soap/k진수에서-소수-개수-구하기) | 런타임 오류, toString() |
 | 2026-04-30 | Programmers | 주식가격 | Level 2 | [주식가격](https://velog.io/@hi_soap/주식가격) | monotonic stack |
+| 2026-05-02 | Programmers | n진수 게임 | Level 2 | [n진수 게임](https://velog.io/@hi_soap/n진수-게임) | toString, StringBuilder |
