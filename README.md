@@ -4,7 +4,7 @@
 ## 풀이 현황
 | 플랫폼 | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 | 합계 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Programmers | 15개 | 45개 | 1개 | 0개 | 0개 | 61개 |
+| Programmers | 15개 | 46개 | 1개 | 0개 | 0개 | 62개 |
 
 | 플랫폼 | Bronze | Silver | Gold | 합계 |
 | :---: | :---: | :---: | :---: | :---: |
@@ -74,3 +74,4 @@
 | 2026-04-30 | Programmers | 주식가격 | Level 2 | [주식가격](https://velog.io/@hi_soap/주식가격) | monotonic stack |
 | 2026-05-02 | Programmers | n진수 게임 | Level 2 | [n진수 게임](https://velog.io/@hi_soap/n진수-게임) | toString, StringBuilder |
 | 2026-05-03 | Programmers | 땅따먹기 | Level 2 | [땅따먹기](https://velog.io/@hi_soap/땅따먹기) | DP, 행렬 고급(?) |
+| 2026-05-04 | Programmers | 압축 | Level 2 | [압축](https://velog.io/@hi_soap/압축) | HashMap, StringBuilder |
