@@ -1,5 +1,6 @@
 # Java Coding Test Practice
 > 프로그래머스 및 백준 알고리즘 문제 풀이 기록 저장소입니다.
+> 2026.05~ 알고리즘 유형별로 분류 방식 변경
 
 ## 풀이 현황
 | 플랫폼 | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 | 합계 |
@@ -10,7 +11,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 | BaekJoon | 0개 | 0개 | 0개 | 0개 |
 
-## 최근 풀이 기록
+## 최근 풀이 기록 (~2026.04)
 | 날짜 | 플랫폼 | 문제 이름 | 난이도 | 문제 풀이 링크 | 기타 |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | 2025-12-30 | Programmers | 소수 만들기 | Level 1 | [소수 만들기](https://velog.io/@hi_soap/소수-만들기) |  |
@@ -76,4 +77,8 @@
 | 2026-05-03 | Programmers | 땅따먹기 | Level 2 | [땅따먹기](https://velog.io/@hi_soap/땅따먹기) | DP, 행렬 고급(?) |
 | 2026-05-04 | Programmers | 압축 | Level 2 | [압축](https://velog.io/@hi_soap/압축) | HashMap, StringBuilder |
 | 2026-05-05 | Programmers | 택배상자 | Level 2 | [택배상자](https://velog.io/@hi_soap/택배상자) | Stack |
-| 2026-05-06 | Programmers | 숫자 변환하기 | Level 2 | [숫자 변환하기](https://velog.io/@hi_soap/숫자-변환하기) | BFS |
+
+## 풀이 기록 (2026.05~)
+| 날짜 | 플랫폼 | 문제 이름 | 난이도 | 알고리즘 | 문제 풀이 링크 | 기타 |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 2026-05-06 | Programmers | 숫자 변환하기 | Level 2 | BFS | [숫자 변환하기](https://velog.io/@hi_soap/숫자-변환하기) |  |
