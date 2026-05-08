@@ -5,7 +5,7 @@
 ## 풀이 현황
 | 플랫폼 | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 | 합계 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Programmers | 16개 | 48개 | 1개 | 0개 | 0개 | 65개 |
+| Programmers | 17개 | 48개 | 1개 | 0개 | 0개 | 66개 |
 
 | 플랫폼 | Bronze | Silver | Gold | 합계 |
 | :---: | :---: | :---: | :---: | :---: |
@@ -82,4 +82,5 @@
 | 날짜 | 플랫폼 | 문제 이름 | 난이도 | 알고리즘 | 문제 풀이 링크 | 기타 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 2026-05-06 | Programmers | 숫자 변환하기 | Level 2 | BFS | [숫자 변환하기](https://velog.io/@hi_soap/숫자-변환하기) |  |
-| 2026-05-07 | Programmers | 완주하지 못한 선수 | Level 1 | Hash | [완주하지 못한 선수](https://velog.io/@hi_soap/완주하지-못한-선수) |  |
+| 2026-05-07 | Programmers | 완주하지 못한 선수 | Level 1 | Hash | [완주하지 못한 선수](https://velog.io/@hi_soap/완주하지-못한-선수) | HashMap |
+| 2026-05-08 | Programmers | 폰켓몬 | Level 1 | Hash | [폰켓몬](https://velog.io/@hi_soap/폰켓몬) | HashSet |
