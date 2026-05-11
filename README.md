@@ -5,7 +5,7 @@
 ## 풀이 현황
 | 플랫폼 | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 | 합계 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Programmers | 18개 | 49개 | 1개 | 0개 | 0개 | 68개 |
+| Programmers | 19개 | 49개 | 1개 | 0개 | 0개 | 69개 |
 
 | 플랫폼 | Bronze | Silver | Gold | 합계 |
 | :---: | :---: | :---: | :---: | :---: |
@@ -86,3 +86,4 @@
 | 2026-05-08 | Programmers | 폰켓몬 | Level 1 | Hash | [폰켓몬](https://velog.io/@hi_soap/폰켓몬) | HashSet |
 | 2026-05-09 | Programmers | 같은 숫자는 싫어 | Level 1 | Stack/Queue | [같은 숫자는 싫어](https://velog.io/@hi_soap/같은-숫자는-싫어) | 시간 초과 오류 발생, AI 활용, Array로 해결 |
 | 2026-05-10 | Programmers | 다리를 지나는 트럭 | Level 2 | Stack/Queue | [다리를 지나는 트럭](https://velog.io/@hi_soap/다리를-지나는-트럭) |  |
+| 2026-05-11 | Programmers | K번째수 | Level 1 | Sort | [K번째수](https://velog.io/@hi_soap/K번째수) |  |
