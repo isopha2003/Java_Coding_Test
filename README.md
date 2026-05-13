@@ -88,4 +88,4 @@
 | 2026-05-10 | Programmers | 다리를 지나는 트럭 | Level 2 | Stack/Queue | [다리를 지나는 트럭](https://velog.io/@hi_soap/다리를-지나는-트럭) |  |
 | 2026-05-11 | Programmers | K번째수 | Level 1 | Sort | [K번째수](https://velog.io/@hi_soap/K번째수) |  |
 | 2026-05-12 | Programmers | 가장 큰 수 | Level 2 | Sort | [가장 큰 수](https://velog.io/@hi_soap/가장-큰-수) |  |
-| 2026-05-13 | Programmers | 최소직사각형 | Level 1 | Sort | [최소직사각형](https://velog.io/@hi_soap/최소직사각형) |  |
+| 2026-05-13 | Programmers | 최소직사각형 | Level 1 | Array_String | [최소직사각형](https://velog.io/@hi_soap/최소직사각형) |  |
