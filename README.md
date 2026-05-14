@@ -5,7 +5,7 @@
 ## 풀이 현황
 | 플랫폼 | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 | 합계 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Programmers | 20개 | 50개 | 1개 | 0개 | 0개 | 71개 |
+| Programmers | 21개 | 50개 | 1개 | 0개 | 0개 | 72개 |
 
 | 플랫폼 | Bronze | Silver | Gold | 합계 |
 | :---: | :---: | :---: | :---: | :---: |
@@ -89,3 +89,4 @@
 | 2026-05-11 | Programmers | K번째수 | Level 1 | Sort | [K번째수](https://velog.io/@hi_soap/K번째수) |  |
 | 2026-05-12 | Programmers | 가장 큰 수 | Level 2 | Sort | [가장 큰 수](https://velog.io/@hi_soap/가장-큰-수) |  |
 | 2026-05-13 | Programmers | 최소직사각형 | Level 1 | Array_String | [최소직사각형](https://velog.io/@hi_soap/최소직사각형) |  |
+| 2026-05-14 | Programmers | 모의고사 | Level 1 | Array_String | [모의고사](https://velog.io/@hi_soap/모의고사) |  |
