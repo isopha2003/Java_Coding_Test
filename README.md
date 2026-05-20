@@ -5,7 +5,7 @@
 ## 풀이 현황
 | 플랫폼 | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 | 합계 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Programmers | 21개 | 52개 | 1개 | 0개 | 0개 | 74개 |
+| Programmers | 22개 | 52개 | 1개 | 0개 | 0개 | 75개 |
 
 | 플랫폼 | Bronze | Silver | Gold | 합계 |
 | :---: | :---: | :---: | :---: | :---: |
@@ -92,3 +92,4 @@
 | 2026-05-14 | Programmers | 모의고사 | Level 1 | Array_String | [모의고사](https://velog.io/@hi_soap/모의고사) |  |
 | 2026-05-18 | Programmers | 소수 찾기 | Level 2 | DFS | [소수 찾기](https://velog.io/@hi_soap/소수-찾기) |  |
 | 2026-05-19 | Programmers | 전력망을 둘로 나누기 | Level 2 | BFS | [전력망을 둘로 나누기](https://velog.io/@hi_soap/전력망을-둘로-나누기) | HashSet으로 해결 |
+| 2026-05-20 | Programmers | 체육복 | Level 1 | Greedy | [체육복](https://velog.io/@hi_soap/체육복) | HashMap과 ArrayList 활용 |
