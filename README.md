@@ -93,3 +93,4 @@
 | 2026-05-18 | Programmers | 소수 찾기 | Level 2 | DFS | [소수 찾기](https://velog.io/@hi_soap/소수-찾기) |  |
 | 2026-05-19 | Programmers | 전력망을 둘로 나누기 | Level 2 | BFS | [전력망을 둘로 나누기](https://velog.io/@hi_soap/전력망을-둘로-나누기) | HashSet으로 해결 |
 | 2026-05-20 | Programmers | 체육복 | Level 1 | Greedy | [체육복](https://velog.io/@hi_soap/체육복) | HashMap과 ArrayList 활용 |
+| 2026-05-21 | Programmers | 조이스틱 | Level 2 | Greedy | [조이스틱](https://velog.io/@hi_soap/조이스틱) | 해결 실패 |
