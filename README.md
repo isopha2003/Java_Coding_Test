@@ -5,7 +5,7 @@
 ## 풀이 현황
 | 플랫폼 | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 | 합계 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Programmers | 22개 | 54개 | 1개 | 0개 | 0개 | 77개 |
+| Programmers | 22개 | 56개 | 1개 | 0개 | 0개 | 79개 |
 
 | 플랫폼 | Bronze | Silver | Gold | 합계 |
 | :---: | :---: | :---: | :---: | :---: |
@@ -96,3 +96,4 @@
 | 2026-05-21 | Programmers | 조이스틱 | Level 2 | Greedy | [조이스틱](https://velog.io/@hi_soap/조이스틱) | 해결 실패 |
 | 2026-06-22 | Programmers | 스킽트리 | Level 2 | Array_String | [스킬트리](https://velog.io/@hi_soap/스킬트리) | HashSet |
 | 2026-06-23 | Programmers | 주차 요금 | Level 2 | Hash | [주차 요금](https://velog.io/@hi_soap/주차-요금-ajtf8ukq) | HashMap, TreeMap |
+| 2026-06-24 | Programmers | 2 x n 타일링 | Level 2 | DP | [2 x n 타일링](https://velog.io/@hi_soap/2-x-n-타일링) | AI 부분 활용 |
