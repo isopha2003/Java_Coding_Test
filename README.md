@@ -5,7 +5,7 @@
 ## 풀이 현황
 | 플랫폼 | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 | 합계 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Programmers | 22개 | 61개 | 1개 | 0개 | 0개 | 84개 |
+| Programmers | 22개 | 62개 | 1개 | 0개 | 0개 | 85개 |
 
 | 플랫폼 | Bronze | Silver | Gold | 합계 |
 | :---: | :---: | :---: | :---: | :---: |
@@ -100,4 +100,5 @@
 | 2026-06-25 | Programmers | 오픈채팅방 | Level 2 | Hash | [오픈채팅방](https://velog.io/@hi_soap/오픈채팅방) |  |
 | 2026-06-28 | Programmers | 프렌즈 4블록 | Level 2 | Queue | [프렌즈 4블록](https://velog.io/@hi_soap/프렌즈-4블록) |  |
 | 2026-06-30 | Programmers | 2개 이하로 다른 비트 | Level 2 | Bit_Manipulation | [2개 이하로 다른 비트](https://velog.io/@hi_soap/2개-이하로-다른-비트) | 해결 실패, snoob 알고리즘 |
-| 2026-07-02 | Programmers | 쿼드압축 후 개수 세기 | Level 2 | Recursion | [쿼드압축 후 개수 세기](https://velog.io/@hi_soap/쿼드압축-후-개수-세기) | 해결 실패, AI 활용 |
+| 2026-07-01 | Programmers | 쿼드압축 후 개수 세기 | Level 2 | Recursion | [쿼드압축 후 개수 세기](https://velog.io/@hi_soap/쿼드압축-후-개수-세기) | 해결 실패, AI 활용 |
+| 2026-07-02 | Programmers | 두 큐 합 같게 만들기 | Level 2 | Queue | [두 큐 합 같게 만들기](https://velog.io/@hi_soap/두-큐-합-같게-만들기) |  |
