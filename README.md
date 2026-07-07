@@ -5,7 +5,7 @@
 ## 풀이 현황
 | 플랫폼 | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 | 합계 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Programmers | 22개 | 63개 | 1개 | 0개 | 0개 | 86개 |
+| Programmers | 22개 | 64개 | 1개 | 0개 | 0개 | 87개 |
 
 | 플랫폼 | Bronze | Silver | Gold | 합계 |
 | :---: | :---: | :---: | :---: | :---: |
@@ -102,4 +102,5 @@
 | 2026-06-30 | Programmers | 2개 이하로 다른 비트 | Level 2 | Bit_Manipulation | [2개 이하로 다른 비트](https://velog.io/@hi_soap/2개-이하로-다른-비트) | 해결 실패, snoob 알고리즘 |
 | 2026-07-01 | Programmers | 쿼드압축 후 개수 세기 | Level 2 | Recursion | [쿼드압축 후 개수 세기](https://velog.io/@hi_soap/쿼드압축-후-개수-세기) | 해결 실패, AI 활용 |
 | 2026-07-02 | Programmers | 두 큐 합 같게 만들기 | Level 2 | Queue | [두 큐 합 같게 만들기](https://velog.io/@hi_soap/두-큐-합-같게-만들기) |  |
-| 2026-07-03 | Programmers | 큰 수 만들기 | Level 2 | Stack, Greedy | [큰 수 만들기](https://velog.io/@hi_soap/큰-수-만들기) | AI 활용 | 
+| 2026-07-03 | Programmers | 큰 수 만들기 | Level 2 | Stack, Greedy | [큰 수 만들기](https://velog.io/@hi_soap/큰-수-만들기) | AI 활용 |
+| 2026-07-07 | Programmers | 마법의 엘리베이터 | Level 2 | DP | [마법의 엘리베이터](https://velog.io/@hi_soap/마법의-엘리베이터) | 해결 실패, AI 활용 |
