@@ -104,3 +104,4 @@
 | 2026-07-02 | Programmers | 두 큐 합 같게 만들기 | Level 2 | Queue | [두 큐 합 같게 만들기](https://velog.io/@hi_soap/두-큐-합-같게-만들기) |  |
 | 2026-07-03 | Programmers | 큰 수 만들기 | Level 2 | Stack, Greedy | [큰 수 만들기](https://velog.io/@hi_soap/큰-수-만들기) | AI 활용 |
 | 2026-07-07 | Programmers | 마법의 엘리베이터 | Level 2 | DP | [마법의 엘리베이터](https://velog.io/@hi_soap/마법의-엘리베이터) | 해결 실패, AI 활용 |
+| 2026-07-09 | Programmers | 시소 짝꿍 | Level 2 | Math | [시소 짝꿍](https://velog.io/@hi_soap/시소-짝꿍) | AI 활용 |
