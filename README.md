@@ -105,3 +105,4 @@
 | 2026-07-03 | Programmers | 큰 수 만들기 | Level 2 | Stack, Greedy | [큰 수 만들기](https://velog.io/@hi_soap/큰-수-만들기) | AI 활용 |
 | 2026-07-07 | Programmers | 마법의 엘리베이터 | Level 2 | DP | [마법의 엘리베이터](https://velog.io/@hi_soap/마법의-엘리베이터) | 해결 실패, AI 활용 |
 | 2026-07-09 | Programmers | 시소 짝꿍 | Level 2 | Math | [시소 짝꿍](https://velog.io/@hi_soap/시소-짝꿍) | AI 활용 |
+| 2026-07-10 | Programmers | 공원 산책_복습 | Level 1 | Array_String | [공원 산책_복습](https://velog.io/@hi_soap/공원1) | 성공 |
