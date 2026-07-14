@@ -8,7 +8,7 @@ class Solution {
         fibo[2] = 2;
         for (int i = 3; i <= n; i++) {
             fibo[i] = (fibo[i - 2] + fibo[i - 1]) % 1000000007;
-        }
+        }   
         
         return fibo[n];
     }
