@@ -112,3 +112,4 @@
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 2026-07-10 | Programmers | 공원 산책_복습 | Level 1 | Array_String | [공원 산책_복습](https://velog.io/@hi_soap/공원1) | 성공 |
 | 2026-07-14 | Programmers | 짝 지어 제거하기_복습 | Level 2 | Stack | [짝 지어 제거하기 복습](https://velog.io/@hi_soap/짝지어-제거하기복습-d6iwwis3) | 성공 |
+| 2026-07-15 | Programmers | 피보나치 수 | Level 2 | DP | [피보나치 수](https://velog.io/@hi_soap/피보나치-수복습) | 성공 |
