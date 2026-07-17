@@ -7,10 +7,6 @@
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | Programmers | 22개 | 64개 | 1개 | 0개 | 0개 | 87개 |
 
-| 플랫폼 | Bronze | Silver | Gold | 합계 |
-| :---: | :---: | :---: | :---: | :---: |
-| BaekJoon | 0개 | 0개 | 0개 | 0개 |
-
 ## 최근 풀이 기록 (~2026.04)
 | 날짜 | 플랫폼 | 문제 이름 | 난이도 | 문제 풀이 링크 | 기타 |
 | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -113,3 +109,4 @@
 | 2026-07-10 | Programmers | 공원 산책_복습 | Level 1 | Array_String | [공원 산책_복습](https://velog.io/@hi_soap/공원1) | 성공 |
 | 2026-07-14 | Programmers | 짝 지어 제거하기_복습 | Level 2 | Stack | [짝 지어 제거하기 복습](https://velog.io/@hi_soap/짝지어-제거하기복습-d6iwwis3) | 성공 |
 | 2026-07-15 | Programmers | 피보나치 수 | Level 2 | DP | [피보나치 수](https://velog.io/@hi_soap/피보나치-수복습) | 성공 |
+| 2026-07-17 | Programmers | 구명보트 | Level 2 | Two_Pointer | [구명보트](https://velog.io/@hi_soap/구명보트복습) | 실패 |
