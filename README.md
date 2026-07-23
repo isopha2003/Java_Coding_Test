@@ -114,3 +114,4 @@
 | 2026-07-19 | Programmers | n^2 배열 자르기 | Level 2 | Math | [n^2 배열 자르기_복습](https://velog.io/@hi_soap/n2-배열-자르기-86iz2gbw) | 성공 |
 | 2026-07-21 | Programmers | H-Index | Level 2 | Sort | [H-Index_복습](https://velog.io/@hi_soap/H-Index복습) | 성공 |
 | 2026-07-22 | Programmers | 피로도 | Level 2 | dfs | [피로도_복습](https://velog.io/@hi_soap/피로도복습) | 성공 |
+| 2026-07-23 | Programmers | 캐시 | Level 2 | HashMap | [캐시 복습](https://velog.io/@hi_soap/캐시-5b2um496) | 성공 |
