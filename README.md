@@ -118,3 +118,4 @@
 | 2026-07-26 | Programmers | 전화번호 목록 | Level 2 | HashSet | [전화번호 목록_복습](https://velog.io/@hi_soap/전화번호-목록복습) | 성공 |
 | 2026-07-28 | Programmers | 프로세스 | Level 2 | Stack_Queue | [프로세스_복습](https://velog.io/@hi_soap/프로세스복습) | 성공 |
 | 2026-07-29 | Programmers | 롤케이크 자르기 | Level 2 | Hash | [롤케이크 자르기_복습](https://velog.io/@hi_soap/롤케이크-자르기복습) | 성공 |
+| 2026-07-31 | Programmers | 게임 맵 최단 거리 | Level 2 | BFS | [게임 맵 최단 거리_복습](https://velog.io/@hi_soap/게임-맵-최단-거리복습) | 성공 |
