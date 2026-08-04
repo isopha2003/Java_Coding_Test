@@ -120,3 +120,4 @@
 | 2026-07-29 | Programmers | 롤케이크 자르기 | Level 2 | Hash | [롤케이크 자르기_복습](https://velog.io/@hi_soap/롤케이크-자르기복습) | 성공 |
 | 2026-07-31 | Programmers | 게임 맵 최단 거리 | Level 2 | BFS | [게임 맵 최단 거리_복습](https://velog.io/@hi_soap/게임-맵-최단-거리복습) | 성공 |
 | 2026-08-03 | Programmers | 타겟 넘버 | Level 2 | DFS | [타겟 넘버_복습](https://velog.io/@hi_soap/타겟-넘버복습) | 실패 |
+| 2026-08-04 | Programmers | 튜플 | Level 2 | Hash | [튜플_복습](https://velog.io/@hi_soap/튜플복습) | 성공 | 
