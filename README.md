@@ -122,3 +122,4 @@
 | 2026-08-03 | Programmers | 타겟 넘버 | Level 2 | DFS | [타겟 넘버_복습](https://velog.io/@hi_soap/타겟-넘버복습) | 실패 |
 | 2026-08-04 | Programmers | 튜플 | Level 2 | Hash | [튜플_복습](https://velog.io/@hi_soap/튜플복습) | 성공 | 
 | 2026-08-05 | Programmers | 뉴스 클러스터링 | Level 2 | Hash | [뉴스 클러스터링_복습](https://velog.io/@hi_soap/뉴스-클러스터링복습) | 성공 |
+| 2026-08-07 | Programmers | 방문 길이 | Level 2 | Hash | [방문 길이_복습](https://velog.io/@hi_soap/방문-길이복습) | 성공 |
