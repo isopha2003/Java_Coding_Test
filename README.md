@@ -5,7 +5,7 @@
 ## 풀이 현황
 | 플랫폼 | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 | 합계 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Programmers | 22개 | 64개 | 1개 | 0개 | 0개 | 87개 |
+| Programmers | 22개 | 64개 | 1개 | 0개 | 0개 | 88개 |
 
 ## 최근 풀이 기록 (~2026.04)
 | 날짜 | 플랫폼 | 문제 이름 | 난이도 | 문제 풀이 링크 | 기타 |
@@ -123,3 +123,4 @@
 | 2026-08-04 | Programmers | 튜플 | Level 2 | Hash | [튜플_복습](https://velog.io/@hi_soap/튜플복습) | 성공 | 
 | 2026-08-05 | Programmers | 뉴스 클러스터링 | Level 2 | Hash | [뉴스 클러스터링_복습](https://velog.io/@hi_soap/뉴스-클러스터링복습) | 성공 |
 | 2026-08-07 | Programmers | 방문 길이 | Level 2 | Hash | [방문 길이_복습](https://velog.io/@hi_soap/방문-길이복습) | 성공 |
+| 2026-08-08 | Programmers | 모음 사전 | Level 2 | DFS | [모음 사전_복습](https://velog.io/@hi_soap/모음-사전복습) | 실패 |
