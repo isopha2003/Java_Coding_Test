@@ -125,3 +125,4 @@
 | 2026-08-07 | Programmers | 방문 길이 | Level 2 | Hash | [방문 길이_복습](https://velog.io/@hi_soap/방문-길이복습) | 성공 |
 | 2026-08-08 | Programmers | 모음 사전 | Level 2 | DFS | [모음 사전_복습](https://velog.io/@hi_soap/모음-사전복습) | 실패 |
 | 2026-08-09 | Programmers | 뒤에 있는 큰 수 찾기 | Level 2 | Stack | [뒤에 있는 큰 수 찾기_복습](https://velog.io/@hi_soap/뒤에-있는-큰-수-찾기복습) | 성공 |
+| 2026-08-11 | Programmers | 더 맵게 | Level 2 | Heap | [더 맵게_복습](https://velog.io/@hi_soap/더-맵게복습) | 실패 |
