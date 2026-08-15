@@ -128,3 +128,4 @@
 | 2026-08-11 | Programmers | 더 맵게 | Level 2 | Heap | [더 맵게_복습](https://velog.io/@hi_soap/더-맵게복습) | 실패 |
 | 2026-08-12 | Programmers | k진수에서 소수 개수 구하기 | Level 2 | Math | [k진수에서 소수 개수 구하기_복습](https://velog.io/@hi_soap/k진수에서-소수-개수-구하기-rg87vepk) | 실패 |
 | 2026-08-14 | Programmers | 주식가격 | Level 2 | Stack | [주식가격_복습](https://velog.io/@hi_soap/주식가격복습) | 성공 |
+| 2026-08-15 | Programmers | n진수 게임 | Level 2 | Math | [n진수 게임_복습](https://velog.io/@hi_soap/n진수-게임-1h6h6qgt) | 성공 |
