@@ -132,3 +132,4 @@
 | 2026-08-16 | Programmers | 땅따먹기 | Level 2 | DP | [땅따먹기_복습](https://velog.io/@hi_soap/땅따먹기복습) | 실패 |
 | 2026-09-01 | Programmers | 압축 | Level 2 | Hash | [압축_복습](https://velog.io/@hi_soap/압축복습) | 실패 |
 | 2026-09-02 | Programmers | 택배상자 | Level 2 | Stack | [택배상자_복습](https://velog.io/@hi_soap/택배상자복습) | 성공 |
+| 2026-09-03 | Programmers | 같은 숫자는 싫어 | Level 1 | Queue | [같은 숫자는 싫어_복습](https://velog.io/@hi_soap/같은-숫자는-싫어복습) | 성공 |
