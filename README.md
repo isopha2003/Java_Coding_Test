@@ -135,3 +135,4 @@
 | 2026-09-03 | Programmers | 같은 숫자는 싫어 | Level 1 | Queue | [같은 숫자는 싫어_복습](https://velog.io/@hi_soap/같은-숫자는-싫어복습) | 성공 |
 | 2026-09-06 | Programmers | 전력망을 둘로 나누기 | Level 2 | BFS | [전력망을 둘로 나누기_복습](https://velog.io/@hi_soap/전력망을-둘로-나누기복습) | 실패 |
 | 2026-09-07 | Programmers | 체육복 | Level 1 | Greedy | [체육복_복습](https://velog.io/@hi_soap/체육복복습) | 실패 |
+| 2026-09-08 | Programmers | 조이스틱 | Level 2 | Greedy | [조이스틱_복습](https://velog.io/@hi_soap/조이스틱복습) | 실패 |
