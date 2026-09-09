@@ -101,12 +101,11 @@
 | 2026-07-03 | Programmers | 큰 수 만들기 | Level 2 | Stack, Greedy | [큰 수 만들기](https://velog.io/@hi_soap/큰-수-만들기) | AI 활용 |
 | 2026-07-07 | Programmers | 마법의 엘리베이터 | Level 2 | DP | [마법의 엘리베이터](https://velog.io/@hi_soap/마법의-엘리베이터) | 해결 실패, AI 활용 |
 | 2026-07-09 | Programmers | 시소 짝꿍 | Level 2 | Math | [시소 짝꿍](https://velog.io/@hi_soap/시소-짝꿍) | AI 활용 |
-| 2026-07-10 | Programmers | 공원 산책_복습 | Level 1 | Array_String | [공원 산책_복습](https://velog.io/@hi_soap/공원1) | 성공 |
 
 ## 복습 기록 (2026.07~)
 | 날짜 | 플랫폼 | 문제 이름 | 난이도 | 알고리즘 | 문제 풀이 링크 | 기타 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-07-10 | Programmers | 공원 산책 | Level 1 | Array_String | [공원_복습](https://velog.io/@hi_soap/공원1) | 성공 |
+| 2026-07-10 | Programmers | 공원 산책 | Level 1 | Array_String | [공원 산책_복습](https://velog.io/@hi_soap/공원1) | 성공 |
 | 2026-07-14 | Programmers | 짝 지어 제거하기 | Level 2 | Stack | [짝 지어 제거하기_복습](https://velog.io/@hi_soap/짝지어-제거하기복습-d6iwwis3) | 성공 |
 | 2026-07-15 | Programmers | 피보나치 수 | Level 2 | DP | [피보나치 수_복습](https://velog.io/@hi_soap/피보나치-수복습) | 성공 |
 | 2026-07-17 | Programmers | 구명보트 | Level 2 | Two_Pointer | [구명보트_복습](https://velog.io/@hi_soap/구명보트복습) | 실패 |
@@ -136,3 +135,4 @@
 | 2026-09-06 | Programmers | 전력망을 둘로 나누기 | Level 2 | BFS | [전력망을 둘로 나누기_복습](https://velog.io/@hi_soap/전력망을-둘로-나누기복습) | 실패 |
 | 2026-09-07 | Programmers | 체육복 | Level 1 | Greedy | [체육복_복습](https://velog.io/@hi_soap/체육복복습) | 실패 |
 | 2026-09-08 | Programmers | 조이스틱 | Level 2 | Greedy | [조이스틱_복습](https://velog.io/@hi_soap/조이스틱복습) | 실패 |
+| 2026-09-09 | Programmers | 스킬트리 | Level 2 | HashSet | [스킬트리_복습](https://velog.io/@hi_soap/스킬트리-w3waw1ao) | 성공 | 
