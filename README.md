@@ -77,28 +77,28 @@
 ## 풀이 기록 (2026.05~)
 | 날짜 | 플랫폼 | 문제 이름 | 난이도 | 알고리즘 | 문제 풀이 링크 | 기타 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-05-06 | Programmers | 숫자 변환하기 | Level 2 | BFS | [숫자 변환하기](https://velog.io/@hi_soap/숫자-변환하기) |  |
+| 2026-05-06 | Programmers | 숫자 변환하기 | Level 2 | BFS_DFS | [숫자 변환하기](https://velog.io/@hi_soap/숫자-변환하기) |  |
 | 2026-05-07 | Programmers | 완주하지 못한 선수 | Level 1 | Hash | [완주하지 못한 선수](https://velog.io/@hi_soap/완주하지-못한-선수) | HashMap |
 | 2026-05-08 | Programmers | 폰켓몬 | Level 1 | Hash | [폰켓몬](https://velog.io/@hi_soap/폰켓몬) | HashSet |
-| 2026-05-09 | Programmers | 같은 숫자는 싫어 | Level 1 | Stack/Queue | [같은 숫자는 싫어](https://velog.io/@hi_soap/같은-숫자는-싫어) | 시간 초과 오류 발생, AI 활용, Array로 해결 |
-| 2026-05-10 | Programmers | 다리를 지나는 트럭 | Level 2 | Stack/Queue | [다리를 지나는 트럭](https://velog.io/@hi_soap/다리를-지나는-트럭) |  |
+| 2026-05-09 | Programmers | 같은 숫자는 싫어 | Level 1 | Stack_Queue | [같은 숫자는 싫어](https://velog.io/@hi_soap/같은-숫자는-싫어) | 시간 초과 오류 발생, AI 활용, Array로 해결 |
+| 2026-05-10 | Programmers | 다리를 지나는 트럭 | Level 2 | Stack_Queue | [다리를 지나는 트럭](https://velog.io/@hi_soap/다리를-지나는-트럭) |  |
 | 2026-05-11 | Programmers | K번째수 | Level 1 | Sort | [K번째수](https://velog.io/@hi_soap/K번째수) |  |
 | 2026-05-12 | Programmers | 가장 큰 수 | Level 2 | Sort | [가장 큰 수](https://velog.io/@hi_soap/가장-큰-수) |  |
 | 2026-05-13 | Programmers | 최소직사각형 | Level 1 | Array_String | [최소직사각형](https://velog.io/@hi_soap/최소직사각형) |  |
 | 2026-05-14 | Programmers | 모의고사 | Level 1 | Array_String | [모의고사](https://velog.io/@hi_soap/모의고사) |  |
-| 2026-05-18 | Programmers | 소수 찾기 | Level 2 | DFS | [소수 찾기](https://velog.io/@hi_soap/소수-찾기) |  |
-| 2026-05-19 | Programmers | 전력망을 둘로 나누기 | Level 2 | BFS | [전력망을 둘로 나누기](https://velog.io/@hi_soap/전력망을-둘로-나누기) | HashSet으로 해결 |
+| 2026-05-18 | Programmers | 소수 찾기 | Level 2 | BFS_DFS | [소수 찾기](https://velog.io/@hi_soap/소수-찾기) |  |
+| 2026-05-19 | Programmers | 전력망을 둘로 나누기 | Level 2 | BFS_DFS | [전력망을 둘로 나누기](https://velog.io/@hi_soap/전력망을-둘로-나누기) | HashSet으로 해결 |
 | 2026-05-20 | Programmers | 체육복 | Level 1 | Greedy | [체육복](https://velog.io/@hi_soap/체육복) | HashMap과 ArrayList 활용 |
 | 2026-05-21 | Programmers | 조이스틱 | Level 2 | Greedy | [조이스틱](https://velog.io/@hi_soap/조이스틱) | 해결 실패 |
-| 2026-06-22 | Programmers | 스킽트리 | Level 2 | Array_String | [스킬트리](https://velog.io/@hi_soap/스킬트리) | HashSet |
+| 2026-06-22 | Programmers | 스킬트리 | Level 2 | Array_String | [스킬트리](https://velog.io/@hi_soap/스킬트리) | HashSet |
 | 2026-06-23 | Programmers | 주차 요금 | Level 2 | Hash | [주차 요금](https://velog.io/@hi_soap/주차-요금-ajtf8ukq) | HashMap, TreeMap |
 | 2026-06-24 | Programmers | 2 x n 타일링 | Level 2 | DP | [2 x n 타일링](https://velog.io/@hi_soap/2-x-n-타일링) | AI 부분 활용 |
 | 2026-06-25 | Programmers | 오픈채팅방 | Level 2 | Hash | [오픈채팅방](https://velog.io/@hi_soap/오픈채팅방) |  |
-| 2026-06-28 | Programmers | 프렌즈 4블록 | Level 2 | Queue | [프렌즈 4블록](https://velog.io/@hi_soap/프렌즈-4블록) |  |
+| 2026-06-28 | Programmers | 프렌즈 4블록 | Level 2 | Stack_Queue | [프렌즈 4블록](https://velog.io/@hi_soap/프렌즈-4블록) |  |
 | 2026-06-30 | Programmers | 2개 이하로 다른 비트 | Level 2 | Bit_Manipulation | [2개 이하로 다른 비트](https://velog.io/@hi_soap/2개-이하로-다른-비트) | 해결 실패, snoob 알고리즘 |
 | 2026-07-01 | Programmers | 쿼드압축 후 개수 세기 | Level 2 | Recursion | [쿼드압축 후 개수 세기](https://velog.io/@hi_soap/쿼드압축-후-개수-세기) | 해결 실패, AI 활용 |
-| 2026-07-02 | Programmers | 두 큐 합 같게 만들기 | Level 2 | Queue | [두 큐 합 같게 만들기](https://velog.io/@hi_soap/두-큐-합-같게-만들기) |  |
-| 2026-07-03 | Programmers | 큰 수 만들기 | Level 2 | Stack, Greedy | [큰 수 만들기](https://velog.io/@hi_soap/큰-수-만들기) | AI 활용 |
+| 2026-07-02 | Programmers | 두 큐 합 같게 만들기 | Level 2 | Stack_Queue | [두 큐 합 같게 만들기](https://velog.io/@hi_soap/두-큐-합-같게-만들기) |  |
+| 2026-07-03 | Programmers | 큰 수 만들기 | Level 2 | Stack_Queue | [큰 수 만들기](https://velog.io/@hi_soap/큰-수-만들기) | AI 활용, Greedy |
 | 2026-07-07 | Programmers | 마법의 엘리베이터 | Level 2 | DP | [마법의 엘리베이터](https://velog.io/@hi_soap/마법의-엘리베이터) | 해결 실패, AI 활용 |
 | 2026-07-09 | Programmers | 시소 짝꿍 | Level 2 | Math | [시소 짝꿍](https://velog.io/@hi_soap/시소-짝꿍) | AI 활용 |
 
@@ -106,34 +106,34 @@
 | 날짜 | 플랫폼 | 문제 이름 | 난이도 | 알고리즘 | 문제 풀이 링크 | 기타 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 2026-07-10 | Programmers | 공원 산책 | Level 1 | Array_String | [공원 산책_복습](https://velog.io/@hi_soap/공원1) | 성공 |
-| 2026-07-14 | Programmers | 짝 지어 제거하기 | Level 2 | Stack | [짝 지어 제거하기_복습](https://velog.io/@hi_soap/짝지어-제거하기복습-d6iwwis3) | 성공 |
+| 2026-07-14 | Programmers | 짝 지어 제거하기 | Level 2 | Stack_Queue | [짝 지어 제거하기_복습](https://velog.io/@hi_soap/짝지어-제거하기복습-d6iwwis3) | 성공 |
 | 2026-07-15 | Programmers | 피보나치 수 | Level 2 | DP | [피보나치 수_복습](https://velog.io/@hi_soap/피보나치-수복습) | 성공 |
 | 2026-07-17 | Programmers | 구명보트 | Level 2 | Two_Pointer | [구명보트_복습](https://velog.io/@hi_soap/구명보트복습) | 실패 |
-| 2026-07-18 | Programmers | 연속된 부분 수열 합의 개수 | Level 2 | HashSet, Sliding_Window | [연속된 부분 수열 합의 개수_복습](https://velog.io/@hi_soap/연속-부분-수열-합의-개수복습) | 성공 |
+| 2026-07-18 | Programmers | 연속된 부분 수열 합의 개수 | Level 2 | Hash | [연속된 부분 수열 합의 개수_복습](https://velog.io/@hi_soap/연속-부분-수열-합의-개수복습) | 성공, Sliding Window |
 | 2026-07-19 | Programmers | n^2 배열 자르기 | Level 2 | Math | [n^2 배열 자르기_복습](https://velog.io/@hi_soap/n2-배열-자르기-86iz2gbw) | 성공 |
 | 2026-07-21 | Programmers | H-Index | Level 2 | Sort | [H-Index_복습](https://velog.io/@hi_soap/H-Index복습) | 성공 |
-| 2026-07-22 | Programmers | 피로도 | Level 2 | dfs | [피로도_복습](https://velog.io/@hi_soap/피로도복습) | 성공 |
-| 2026-07-23 | Programmers | 캐시 | Level 2 | HashMap | [캐시 복습](https://velog.io/@hi_soap/캐시-5b2um496) | 성공 |
-| 2026-07-26 | Programmers | 전화번호 목록 | Level 2 | HashSet | [전화번호 목록_복습](https://velog.io/@hi_soap/전화번호-목록복습) | 성공 |
+| 2026-07-22 | Programmers | 피로도 | Level 2 | BFS_DFS | [피로도_복습](https://velog.io/@hi_soap/피로도복습) | 성공 |
+| 2026-07-23 | Programmers | 캐시 | Level 2 | Hash | [캐시 복습](https://velog.io/@hi_soap/캐시-5b2um496) | 성공 |
+| 2026-07-26 | Programmers | 전화번호 목록 | Level 2 | Hash | [전화번호 목록_복습](https://velog.io/@hi_soap/전화번호-목록복습) | 성공 |
 | 2026-07-28 | Programmers | 프로세스 | Level 2 | Stack_Queue | [프로세스_복습](https://velog.io/@hi_soap/프로세스복습) | 성공 |
 | 2026-07-29 | Programmers | 롤케이크 자르기 | Level 2 | Hash | [롤케이크 자르기_복습](https://velog.io/@hi_soap/롤케이크-자르기복습) | 성공 |
-| 2026-07-31 | Programmers | 게임 맵 최단 거리 | Level 2 | BFS | [게임 맵 최단 거리_복습](https://velog.io/@hi_soap/게임-맵-최단-거리복습) | 성공 |
-| 2026-08-03 | Programmers | 타겟 넘버 | Level 2 | DFS | [타겟 넘버_복습](https://velog.io/@hi_soap/타겟-넘버복습) | 실패 |
+| 2026-07-31 | Programmers | 게임 맵 최단 거리 | Level 2 | BFS_DFS | [게임 맵 최단 거리_복습](https://velog.io/@hi_soap/게임-맵-최단-거리복습) | 성공 |
+| 2026-08-03 | Programmers | 타겟 넘버 | Level 2 | BFS_DFS | [타겟 넘버_복습](https://velog.io/@hi_soap/타겟-넘버복습) | 실패 |
 | 2026-08-04 | Programmers | 튜플 | Level 2 | Hash | [튜플_복습](https://velog.io/@hi_soap/튜플복습) | 성공 | 
 | 2026-08-05 | Programmers | 뉴스 클러스터링 | Level 2 | Hash | [뉴스 클러스터링_복습](https://velog.io/@hi_soap/뉴스-클러스터링복습) | 성공 |
 | 2026-08-07 | Programmers | 방문 길이 | Level 2 | Hash | [방문 길이_복습](https://velog.io/@hi_soap/방문-길이복습) | 성공 |
-| 2026-08-08 | Programmers | 모음 사전 | Level 2 | DFS | [모음 사전_복습](https://velog.io/@hi_soap/모음-사전복습) | 실패 |
-| 2026-08-09 | Programmers | 뒤에 있는 큰 수 찾기 | Level 2 | Stack | [뒤에 있는 큰 수 찾기_복습](https://velog.io/@hi_soap/뒤에-있는-큰-수-찾기복습) | 성공 |
+| 2026-08-08 | Programmers | 모음 사전 | Level 2 | BFS_DFS | [모음 사전_복습](https://velog.io/@hi_soap/모음-사전복습) | 실패 |
+| 2026-08-09 | Programmers | 뒤에 있는 큰 수 찾기 | Level 2 | Stack_Queue | [뒤에 있는 큰 수 찾기_복습](https://velog.io/@hi_soap/뒤에-있는-큰-수-찾기복습) | 성공 |
 | 2026-08-11 | Programmers | 더 맵게 | Level 2 | Heap | [더 맵게_복습](https://velog.io/@hi_soap/더-맵게복습) | 실패 |
 | 2026-08-12 | Programmers | k진수에서 소수 개수 구하기 | Level 2 | Math | [k진수에서 소수 개수 구하기_복습](https://velog.io/@hi_soap/k진수에서-소수-개수-구하기-rg87vepk) | 실패 |
-| 2026-08-14 | Programmers | 주식가격 | Level 2 | Stack | [주식가격_복습](https://velog.io/@hi_soap/주식가격복습) | 성공 |
+| 2026-08-14 | Programmers | 주식가격 | Level 2 | Stack_Queue | [주식가격_복습](https://velog.io/@hi_soap/주식가격복습) | 성공 |
 | 2026-08-15 | Programmers | n진수 게임 | Level 2 | Math | [n진수 게임_복습](https://velog.io/@hi_soap/n진수-게임-1h6h6qgt) | 성공 |
 | 2026-08-16 | Programmers | 땅따먹기 | Level 2 | DP | [땅따먹기_복습](https://velog.io/@hi_soap/땅따먹기복습) | 실패 |
 | 2026-09-01 | Programmers | 압축 | Level 2 | Hash | [압축_복습](https://velog.io/@hi_soap/압축복습) | 실패 |
-| 2026-09-02 | Programmers | 택배상자 | Level 2 | Stack | [택배상자_복습](https://velog.io/@hi_soap/택배상자복습) | 성공 |
-| 2026-09-03 | Programmers | 같은 숫자는 싫어 | Level 1 | Queue | [같은 숫자는 싫어_복습](https://velog.io/@hi_soap/같은-숫자는-싫어복습) | 성공 |
-| 2026-09-06 | Programmers | 전력망을 둘로 나누기 | Level 2 | BFS | [전력망을 둘로 나누기_복습](https://velog.io/@hi_soap/전력망을-둘로-나누기복습) | 실패 |
+| 2026-09-02 | Programmers | 택배상자 | Level 2 | Stack_Queue | [택배상자_복습](https://velog.io/@hi_soap/택배상자복습) | 성공 |
+| 2026-09-03 | Programmers | 같은 숫자는 싫어 | Level 1 | Stack_Queue | [같은 숫자는 싫어_복습](https://velog.io/@hi_soap/같은-숫자는-싫어복습) | 성공 |
+| 2026-09-06 | Programmers | 전력망을 둘로 나누기 | Level 2 | BFS_DFS | [전력망을 둘로 나누기_복습](https://velog.io/@hi_soap/전력망을-둘로-나누기복습) | 실패 |
 | 2026-09-07 | Programmers | 체육복 | Level 1 | Greedy | [체육복_복습](https://velog.io/@hi_soap/체육복복습) | 실패 |
 | 2026-09-08 | Programmers | 조이스틱 | Level 2 | Greedy | [조이스틱_복습](https://velog.io/@hi_soap/조이스틱복습) | 실패 |
-| 2026-09-09 | Programmers | 스킬트리 | Level 2 | HashSet | [스킬트리_복습](https://velog.io/@hi_soap/스킬트리-w3waw1ao) | 성공 | 
+| 2026-09-09 | Programmers | 스킬트리 | Level 2 | Array_String | [스킬트리_복습](https://velog.io/@hi_soap/스킬트리-w3waw1ao) | 성공 |
 | 2026-09-14 | Programmers | 주차 요금 계산 | Level 2 | Hash | [주차 요금 계산_복습](https://velog.io/@hi_soap/주차-요금-계산복습) | 성공 |
