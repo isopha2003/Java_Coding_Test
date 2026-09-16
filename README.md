@@ -137,3 +137,4 @@
 | 2026-09-08 | Programmers | 조이스틱 | Level 2 | Greedy | [조이스틱_복습](https://velog.io/@hi_soap/조이스틱복습) | 실패 |
 | 2026-09-09 | Programmers | 스킬트리 | Level 2 | Array_String | [스킬트리_복습](https://velog.io/@hi_soap/스킬트리-w3waw1ao) | 성공 |
 | 2026-09-14 | Programmers | 주차 요금 계산 | Level 2 | Hash | [주차 요금 계산_복습](https://velog.io/@hi_soap/주차-요금-계산복습) | 성공 |
+| 2026-09-16 | Programmers | 2 x n 타일링 | Level 2 | DP | [2 x n 타일링_복습](https://velog.io/@hi_soap/2-x-n-타일링복습) | 실패 |
