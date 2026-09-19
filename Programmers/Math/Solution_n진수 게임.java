@@ -1,24 +1,28 @@
 class Solution {
     public String solution(int n, int t, int m, int p) {
-        StringBuilder sb = new StringBuilder();
-        
-        int idx = 0;
-        int order = 1;
-        while(sb.length() < t) {
-            String number = Integer.toString(idx, n);
-            number = number.toUpperCase();
-            for (int i = 0; i < number.length(); i++) {
-                if (order == p) {
-                    sb.append(number.charAt(i));
-                    if (sb.length() == t) {
+        String answer = "";
+        int index = 0;
+        int order = 1; // 전체 순서
+        int currentOrder = 1; // 현재 순서
+        int count = 0; // 현재 구한 숫자의 개수
+        while(true) {
+            if (count >= t) {
+                break;
+            }
+            String str = Integer.toString(index, n).toUpperCase(); // n진수 변환
+            for (int i = 0; i < str.length(); i++) {
+                if (currentOrder == p) {
+                    answer += str.charAt(i);
+                    count++;
+                    if (count >= t) {
                         break;
                     }
                 }
-                order = order % m + 1;
+                currentOrder = order % m + 1;
+                order++;
             }
-            idx++;
+            index++;
         }
-        
-        return sb.toString();
+        return answer;
     }
 }
