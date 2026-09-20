@@ -143,3 +143,4 @@
 | 33 | 2026-09-16 | Programmers | 2 x n 타일링 | Level 2 | DP | [2 x n 타일링_복습](https://velog.io/@hi_soap/2-x-n-타일링복습) | 실패 |
 | 34 | 2026-09-17 | Programmers | 2개 이하로 다른 비트 | Level 2 | Bit_Manipulation | [2개 이하로 다른 비트_복습](https://velog.io/@hi_soap/2개-이하로-다른-비트복습) | 실패 |
 | 35 | 2026-09-19 | Programmers | 쿼드압축 후 개수 세기 | Level 2 | Recursion | [쿼드압축 후 개수 세기_복습](https://velog.io/@hi_soap/쿼드압축-후-개수-세기복습) | 실패 |
+| 36 | 2026-09-20 | Programmers | 큰 수 만들기 | Level 2 | Stack_Queue | [큰 수 만들기_복습](https://velog.io/@hi_soap/큰-수-만들기복습) | 실패 |
