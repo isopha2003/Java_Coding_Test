@@ -146,3 +146,4 @@
 | 36 | 2026-09-20 | Programmers | 큰 수 만들기 | Level 2 | Stack_Queue | [큰 수 만들기_복습](https://velog.io/@hi_soap/큰-수-만들기복습) | 실패 |
 | 37 | 2026-09-21 | Programmers | 마법의 엘리베이터 | Level 2 | DP | [마법의 엘리베이터_복습](https://velog.io/@hi_soap/마법의-엘리베이터복습) | 성공 |
 | 38 | 2026-09-22 | Programmers | 시소 짝꿍 | Level 2 | Hash | [시소 짝꿍_복습](https://velog.io/@hi_soap/시소-짝꿍복습) | 실패 |
+| 39 | 2026-09-23 | Programmers | 구명보트 | Level 2 | Two_Potiner | [구명보트_복습2](https://velog.io/@hi_soap/구명보트복습2) | 성공 |
