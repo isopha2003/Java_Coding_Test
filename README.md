@@ -150,3 +150,4 @@
 | 40 | 2026-09-24 | Programmers | 타겟 넘버 | Level 2 | BFS_DFS | [타겟 넘버_복습2](https://velog.io/@hi_soap/타겟-넘버복습2) | 성공 |
 | 41 | 2026-09-27 | Programmers | 모음사전 | Level 2 | BFS_DFS | [모음사전_복습2](https://velog.io/@hi_soap/모음사전복습2) | 성공 |
 | 42 | 2026-09-28 | Programmers | 더 맵게 | Level 2 | Heap | [더 맵게_복습2](https://velog.io/@hi_soap/더-맵게복습2) | 성공 |
+| 43 | 2026-09-30 | Programmers | k진수에서 소수 개수 구하기 | [k진수에서 소수 개수 구하기_복습2](https://velog.io/@hi_soap/k진수에서-소수-개수-구하기복습2) | 실패, 런타임 에러 |
