@@ -155,3 +155,4 @@
 | 45 | 2026-10-02 | Programmers | 압축 | Level 2 | Hash | [압축_복습2](https://velog.io/@hi_soap/압축복습2) | 성공 |
 | 46 | 2026-10-04 | Programmers | 전력망을 둘로 나누기 | Level 2 | BFS_DFS | [전력망을 둘로 나누기_복습2](https://velog.io/@hi_soap/전력망을-둘로-나누기-복습2) | 성공, AI 재귀코드 |
 | 47 | 2026-10-05 | Programmers | k진수에서 소수 개수 구하기 | Level 2 | Math | [k진수에서 소수 개수 구하기_복습3](https://velog.io/@hi_soap/k진수에서-소수-개수-구하기복습3) | 성공 |
+| 48 | 2026-10-06 | Programmers | 땅따먹기 | Level 2 | DP | [땅따먹기_복습3](https://velog.io/@hi_soap/땅따먹기복습3) | 성공 |
