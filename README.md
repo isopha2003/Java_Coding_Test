@@ -105,7 +105,7 @@
 | 86 | 2026-07-07 | Programmers | 마법의 엘리베이터 | Level 2 | DP | [마법의 엘리베이터](https://velog.io/@hi_soap/마법의-엘리베이터) | 해결 실패, AI 활용 |
 | 87 | 2026-07-09 | Programmers | 시소 짝꿍 | Level 2 | Math | [시소 짝꿍](https://velog.io/@hi_soap/시소-짝꿍) | AI 활용 |
 
-## 복습 기록 (2026.07~)
+## 1차 복습 기록
 | 순번 | 날짜 | 플랫폼 | 문제 이름 | 난이도 | 알고리즘 | 문제 풀이 링크 | 기타 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | 2026-07-10 | Programmers | 공원 산책 | Level 1 | Array_String | [공원 산책_복습](https://velog.io/@hi_soap/공원1) | 성공 |
@@ -146,13 +146,21 @@
 | 36 | 2026-09-20 | Programmers | 큰 수 만들기 | Level 2 | Stack_Queue | [큰 수 만들기_복습](https://velog.io/@hi_soap/큰-수-만들기복습) | 실패 |
 | 37 | 2026-09-21 | Programmers | 마법의 엘리베이터 | Level 2 | DP | [마법의 엘리베이터_복습](https://velog.io/@hi_soap/마법의-엘리베이터복습) | 성공 |
 | 38 | 2026-09-22 | Programmers | 시소 짝꿍 | Level 2 | Hash | [시소 짝꿍_복습](https://velog.io/@hi_soap/시소-짝꿍복습) | 실패 |
-| 39 | 2026-09-23 | Programmers | 구명보트 | Level 2 | Two_Pointer | [구명보트_복습2](https://velog.io/@hi_soap/구명보트복습2) | 성공 |
-| 40 | 2026-09-24 | Programmers | 타겟 넘버 | Level 2 | BFS_DFS | [타겟 넘버_복습2](https://velog.io/@hi_soap/타겟-넘버복습2) | 성공 |
-| 41 | 2026-09-27 | Programmers | 모음사전 | Level 2 | BFS_DFS | [모음사전_복습2](https://velog.io/@hi_soap/모음사전복습2) | 성공 |
-| 42 | 2026-09-28 | Programmers | 더 맵게 | Level 2 | Heap | [더 맵게_복습2](https://velog.io/@hi_soap/더-맵게복습2) | 성공 |
-| 43 | 2026-09-30 | Programmers | k진수에서 소수 개수 구하기 | Level 2 | Math | [k진수에서 소수 개수 구하기_복습2](https://velog.io/@hi_soap/k진수에서-소수-개수-구하기복습2) | 실패, 런타임 에러 |
-| 44 | 2026-10-01 | Programmers | 땅따먹기 | Level 2 | DP | [땅따먹기_복습2](https://velog.io/@hi_soap/땅따먹기복습2) | 실패, 오류 검출 실패 |
-| 45 | 2026-10-02 | Programmers | 압축 | Level 2 | Hash | [압축_복습2](https://velog.io/@hi_soap/압축복습2) | 성공 |
-| 46 | 2026-10-04 | Programmers | 전력망을 둘로 나누기 | Level 2 | BFS_DFS | [전력망을 둘로 나누기_복습2](https://velog.io/@hi_soap/전력망을-둘로-나누기-복습2) | 성공, AI 재귀코드 |
-| 47 | 2026-10-05 | Programmers | k진수에서 소수 개수 구하기 | Level 2 | Math | [k진수에서 소수 개수 구하기_복습3](https://velog.io/@hi_soap/k진수에서-소수-개수-구하기복습3) | 성공 |
-| 48 | 2026-10-06 | Programmers | 땅따먹기 | Level 2 | DP | [땅따먹기_복습3](https://velog.io/@hi_soap/땅따먹기복습3) | 성공 |
+
+## 2차 복습 기록
+| 순번 | 날짜 | 플랫폼 | 문제 이름 | 난이도 | 알고리즘 | 문제 풀이 링크 | 기타 |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 1 | 2026-09-23 | Programmers | 구명보트 | Level 2 | Two_Pointer | [구명보트_복습2](https://velog.io/@hi_soap/구명보트복습2) | 성공 |
+| 2 | 2026-09-24 | Programmers | 타겟 넘버 | Level 2 | BFS_DFS | [타겟 넘버_복습2](https://velog.io/@hi_soap/타겟-넘버복습2) | 성공 |
+| 3 | 2026-09-27 | Programmers | 모음사전 | Level 2 | BFS_DFS | [모음사전_복습2](https://velog.io/@hi_soap/모음사전복습2) | 성공 |
+| 4 | 2026-09-28 | Programmers | 더 맵게 | Level 2 | Heap | [더 맵게_복습2](https://velog.io/@hi_soap/더-맵게복습2) | 성공 |
+| 5 | 2026-09-30 | Programmers | k진수에서 소수 개수 구하기 | Level 2 | Math | [k진수에서 소수 개수 구하기_복습2](https://velog.io/@hi_soap/k진수에서-소수-개수-구하기복습2) | 실패, 런타임 에러 |
+| 6 | 2026-10-01 | Programmers | 땅따먹기 | Level 2 | DP | [땅따먹기_복습2](https://velog.io/@hi_soap/땅따먹기복습2) | 실패, 오류 검출 실패 |
+| 7 | 2026-10-02 | Programmers | 압축 | Level 2 | Hash | [압축_복습2](https://velog.io/@hi_soap/압축복습2) | 성공 |
+| 8 | 2026-10-04 | Programmers | 전력망을 둘로 나누기 | Level 2 | BFS_DFS | [전력망을 둘로 나누기_복습2](https://velog.io/@hi_soap/전력망을-둘로-나누기-복습2) | 성공, AI 재귀코드 |
+
+## 3차 복습 기록
+| 순번 | 날짜 | 플랫폼 | 문제 이름 | 난이도 | 알고리즘 | 문제 풀이 링크 | 기타 |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 1 | 2026-10-05 | Programmers | k진수에서 소수 개수 구하기 | Level 2 | Math | [k진수에서 소수 개수 구하기_복습3](https://velog.io/@hi_soap/k진수에서-소수-개수-구하기복습3) | 성공 |
+| 2 | 2026-10-06 | Programmers | 땅따먹기 | Level 2 | DP | [땅따먹기_복습3](https://velog.io/@hi_soap/땅따먹기복습3) | 성공 |
