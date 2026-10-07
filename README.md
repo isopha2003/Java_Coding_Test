@@ -158,6 +158,7 @@
 | 6 | 2026-10-01 | Programmers | 땅따먹기 | Level 2 | DP | [땅따먹기_복습2](https://velog.io/@hi_soap/땅따먹기복습2) | 실패, 오류 검출 실패 |
 | 7 | 2026-10-02 | Programmers | 압축 | Level 2 | Hash | [압축_복습2](https://velog.io/@hi_soap/압축복습2) | 성공 |
 | 8 | 2026-10-04 | Programmers | 전력망을 둘로 나누기 | Level 2 | BFS_DFS | [전력망을 둘로 나누기_복습2](https://velog.io/@hi_soap/전력망을-둘로-나누기-복습2) | 성공, AI 재귀코드 |
+| 9 | 2026-10-07 | Programmers | 체육복 | Level 1 | Greedy | [체육복_복습2](https://velog.io/@hi_soap/체육복복습2) | 실패, 실패 원인 분석 실패 |
 
 ## 3차 복습 기록
 | 순번 | 날짜 | 플랫폼 | 문제 이름 | 난이도 | 알고리즘 | 문제 풀이 링크 | 기타 |
