@@ -161,6 +161,7 @@
 | 9 | 2026-10-07 | Programmers | 체육복 | Level 1 | Greedy | [체육복_복습2](https://velog.io/@hi_soap/체육복복습2) | 실패, 실패 원인 분석 실패 |
 | 10 | 2026-10-08 | Programmers | 조이스틱 | Level 2 | Greedy | [조이스틱_복습2](https://velog.io/@hi_soap/조이스틱복습2) | 성공 |
 | 11 | 2026-10-09 | Programmers | 2 x n 타일링 | Level 2 | DP | [2 x n 타일링_복습2](https://velog.io/@hi_soap/2-x-n-타일링복습2) | 성공 |
+| 12 | 2026-10-10 | Programmers | 2개 이하로 다른 비트 | Level 2 | Bit_Manipulation | [2개 이하로 다른 비트_복습2](https://velog.io/@hi_soap/2개-이하로-다른-비트-tsg3zaf9) | 성공 |
 
 ## 3차 복습 기록
 | 순번 | 날짜 | 플랫폼 | 문제 이름 | 난이도 | 알고리즘 | 문제 풀이 링크 | 기타 |
