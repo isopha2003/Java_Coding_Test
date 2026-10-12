@@ -169,3 +169,4 @@
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | 2026-10-05 | Programmers | k진수에서 소수 개수 구하기 | Level 2 | Math | [k진수에서 소수 개수 구하기_복습3](https://velog.io/@hi_soap/k진수에서-소수-개수-구하기복습3) | 성공 |
 | 2 | 2026-10-06 | Programmers | 땅따먹기 | Level 2 | DP | [땅따먹기_복습3](https://velog.io/@hi_soap/땅따먹기복습3) | 성공 |
+| 3 | 2026-10-07 | Programmers | 체육복 | Level 1 | Greedy | [체육복_복습3](https://velog.io/@hi_soap/체육복복습3) | 성공 |
