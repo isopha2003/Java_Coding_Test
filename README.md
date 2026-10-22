@@ -12,7 +12,7 @@
 ### 난이도별
 | 플랫폼 | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 | 합계 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Programmers | 22개 | 64개 | 1개 | 0개 | 0개 | 87개 |
+| Programmers | 22개 | 64개 | 1개 | 0개 | 0개 | 88개 |
 
 ## 풀이 기록
 | 순번 | 날짜 | 플랫폼 | 문제 이름 | 난이도 | 알고리즘 | 문제 풀이 링크 | 기타 |
@@ -104,6 +104,7 @@
 | 85 | 2026-07-03 | Programmers | 큰 수 만들기 | Level 2 | Stack_Queue | [큰 수 만들기](https://velog.io/@hi_soap/큰-수-만들기) | AI 활용, Greedy |
 | 86 | 2026-07-07 | Programmers | 마법의 엘리베이터 | Level 2 | DP | [마법의 엘리베이터](https://velog.io/@hi_soap/마법의-엘리베이터) | 해결 실패, AI 활용 |
 | 87 | 2026-07-09 | Programmers | 시소 짝꿍 | Level 2 | Math | [시소 짝꿍](https://velog.io/@hi_soap/시소-짝꿍) | AI 활용 |
+| 88 | 2026-10-22 | Programmers | 연속된 부분 수열의 합 | Level 2 | Two_Pointer  [연속된 부분 수열의 합](https://velog.io/@hi_soap/연속된-부분-수열의-합) | 성공 |
 
 ## 1차 복습 기록
 | 순번 | 날짜 | 플랫폼 | 문제 이름 | 난이도 | 알고리즘 | 문제 풀이 링크 | 기타 |
