@@ -104,7 +104,8 @@
 | 85 | 2026-07-03 | Programmers | 큰 수 만들기 | Level 2 | Stack_Queue | [큰 수 만들기](https://velog.io/@hi_soap/큰-수-만들기) | AI 활용, Greedy |
 | 86 | 2026-07-07 | Programmers | 마법의 엘리베이터 | Level 2 | DP | [마법의 엘리베이터](https://velog.io/@hi_soap/마법의-엘리베이터) | 해결 실패, AI 활용 |
 | 87 | 2026-07-09 | Programmers | 시소 짝꿍 | Level 2 | Math | [시소 짝꿍](https://velog.io/@hi_soap/시소-짝꿍) | AI 활용 |
-| 88 | 2026-10-22 | Programmers | 연속된 부분 수열의 합 | Level 2 | Two_Pointer  [연속된 부분 수열의 합](https://velog.io/@hi_soap/연속된-부분-수열의-합) | 성공 |
+| 88 | 2026-10-22 | Programmers | 연속된 부분 수열의 합 | Level 2 | Two_Pointer | [연속된 부분 수열의 합](https://velog.io/@hi_soap/연속된-부분-수열의-합) | 성공 |
+| 89 | 2026-10-26 | Programmers | 미로 찾기 | Level 2 | BFS_DFS | [미로 찾기](https://velog.io/@hi_soap/미로-탈출) | 실패: 메모리 초과 오류 | 
 
 ## 1차 복습 기록
 | 순번 | 날짜 | 플랫폼 | 문제 이름 | 난이도 | 알고리즘 | 문제 풀이 링크 | 기타 |
