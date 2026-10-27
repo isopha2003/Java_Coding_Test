@@ -106,6 +106,7 @@
 | 87 | 2026-07-09 | Programmers | 시소 짝꿍 | Level 2 | Math | [시소 짝꿍](https://velog.io/@hi_soap/시소-짝꿍) | AI 활용 |
 | 88 | 2026-10-22 | Programmers | 연속된 부분 수열의 합 | Level 2 | Two_Pointer | [연속된 부분 수열의 합](https://velog.io/@hi_soap/연속된-부분-수열의-합) | 성공 |
 | 89 | 2026-10-26 | Programmers | 미로 찾기 | Level 2 | BFS_DFS | [미로 찾기](https://velog.io/@hi_soap/미로-탈출) | 실패: 메모리 초과 오류 | 
+| 90 | 2026-10-27 | Programmers | 삼각 달팽이 | Level 2 | Array_String | [삼각 달팽이](https://velog.io/@hi_soap/삼각-달팽이) | 성공 |
 
 ## 1차 복습 기록
 | 순번 | 날짜 | 플랫폼 | 문제 이름 | 난이도 | 알고리즘 | 문제 풀이 링크 | 기타 |
