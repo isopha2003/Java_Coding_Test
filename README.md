@@ -105,7 +105,7 @@
 | 86 | 2026-07-07 | Programmers | 마법의 엘리베이터 | Level 2 | DP | [마법의 엘리베이터](https://velog.io/@hi_soap/마법의-엘리베이터) | 해결 실패, AI 활용 |
 | 87 | 2026-07-09 | Programmers | 시소 짝꿍 | Level 2 | Math | [시소 짝꿍](https://velog.io/@hi_soap/시소-짝꿍) | AI 활용 |
 | 88 | 2026-10-22 | Programmers | 연속된 부분 수열의 합 | Level 2 | Two_Pointer | [연속된 부분 수열의 합](https://velog.io/@hi_soap/연속된-부분-수열의-합) | 성공 |
-| 89 | 2026-10-26 | Programmers | 미로 찾기 | Level 2 | BFS_DFS | [미로 찾기](https://velog.io/@hi_soap/미로-탈출) | 실패: 메모리 초과 오류 | 
+| 89 | 2026-10-26 | Programmers | 미로 탈출 | Level 2 | BFS_DFS | [미로 탈출](https://velog.io/@hi_soap/미로-탈출) | 실패: 메모리 초과 오류 | 
 | 90 | 2026-10-27 | Programmers | 삼각 달팽이 | Level 2 | Array_String | [삼각 달팽이](https://velog.io/@hi_soap/삼각-달팽이) | 성공 |
 | 91 | 2026-10-28 | Programmers | 호텔 대실 | Level 2 | Greedy | [호텔 대실](https://velog.io/@hi_soap/호텔-대실) | 실패: 반례 찾기 실패(AI 활용하여 반례 탐색) |
 
@@ -150,6 +150,7 @@
 | 36 | 2026-09-20 | Programmers | 큰 수 만들기 | Level 2 | Stack_Queue | [큰 수 만들기_복습](https://velog.io/@hi_soap/큰-수-만들기복습) | 실패 |
 | 37 | 2026-09-21 | Programmers | 마법의 엘리베이터 | Level 2 | DP | [마법의 엘리베이터_복습](https://velog.io/@hi_soap/마법의-엘리베이터복습) | 성공 |
 | 38 | 2026-09-22 | Programmers | 시소 짝꿍 | Level 2 | Hash | [시소 짝꿍_복습](https://velog.io/@hi_soap/시소-짝꿍복습) | 실패 |
+| 39 | 2026-11-03 | Programmers | 미로 탈출 | Level 2 | BFS_DFS | [미로 탈출](https://velog.io/@hi_soap/미로-탈출-37fsmann) | 성공 |
 
 ## 2차 복습 기록
 | 순번 | 날짜 | 플랫폼 | 문제 이름 | 난이도 | 알고리즘 | 문제 풀이 링크 | 기타 |
