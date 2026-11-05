@@ -7,7 +7,7 @@
 ### 알고리즘 유형별
 | Array_String | BFS_DFS | Bit_Manipulation | DP | Graph | Greedy | Hash | Heap | Math | Recursion | Sort | Stack_Queue | Two_Pointer | 합계 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 12개 | 9개 | 2개 | 6개 | 1개 | 4개 | 21개 | 1개 | 13개 | 1개 | 5개 | 13개 | 3개 | 91개 |
+| 12개 | 9개 | 2개 | 6개 | 1개 | 4개 | 21개 | 1개 | 14개 | 1개 | 5개 | 13개 | 3개 | 92개 |
 
 ### 난이도별
 | 플랫폼 | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 | 합계 |
@@ -108,6 +108,7 @@
 | 89 | 2026-10-26 | Programmers | 미로 탈출 | Level 2 | BFS_DFS | [미로 탈출](https://velog.io/@hi_soap/미로-탈출) | 실패: 메모리 초과 오류 | 
 | 90 | 2026-10-27 | Programmers | 삼각 달팽이 | Level 2 | Array_String | [삼각 달팽이](https://velog.io/@hi_soap/삼각-달팽이) | 성공 |
 | 91 | 2026-10-28 | Programmers | 호텔 대실 | Level 2 | Greedy | [호텔 대실](https://velog.io/@hi_soap/호텔-대실) | 실패: 반례 찾기 실패(AI 활용하여 반례 탐색) |
+| 92 | 2026-11-05 | Programmers | 숫자 카드 나누기 | Level 2 | Math | [숫자 카드 나누기](https://velog.io/@hi_soap/숫자-카드-나누기) | 성공 |
 
 ## 1차 복습 기록
 | 순번 | 날짜 | 플랫폼 | 문제 이름 | 난이도 | 알고리즘 | 문제 풀이 링크 | 기타 |
