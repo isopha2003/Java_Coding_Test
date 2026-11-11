@@ -9,7 +9,7 @@
 
 | Array_String | BFS_DFS | Bit_Manipulation | DP  | Graph | Greedy | Hash | Heap | Math | Recursion | Sort | Stack_Queue | Two_Pointer | 합계 |
 | :----------: | :-----: | :--------------: | :-: | :---: | :----: | :--: | :--: | :--: | :-------: | :--: | :---------: | :---------: | :--: |
-|     12개     |  10개   |       2개        | 6개 |  2개  |  4개   | 21개 | 1개  | 14개 |    1개    | 5개  |    13개     |     3개     | 94개 |
+|     12개     |  10개   |       2개        | 6개 |  2개  |  4개   | 21개 | 2개  | 14개 |    1개    | 5개  |    13개     |     3개     | 95개 |
 
 ### 난이도별
 
@@ -115,6 +115,7 @@
 |  92  | 2026-11-05 | Programmers |      숫자 카드 나누기      | Level 2 |       Math       |           [숫자 카드 나누기](https://velog.io/@hi_soap/숫자-카드-나누기)           |                             성공                              |
 |  93  | 2026-11-09 | Programmers |            배달            | Level 2 |      Graph       |                       [배달](https://velog.io/@hi_soap/배달)                       |                             실패                              |
 |  94  | 2026-11-10 | Programmers |        리코쳇 로봇         | Level 2 |     BFS_DFS      |                   [리코쳇 로봇](https://velog.io/@hi_soap/배달)                    |                             실패                              |
+|  95  | 2026-11-11 | Programmers |        디펜스 게임         | Level 2 |       Heap       |                [디펜스 게임](https://velog.io/@hi_soap/디펜스-모드)                |                             성공                              |
 
 ## 1차 복습 기록
 
